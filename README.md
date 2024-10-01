@@ -26,3 +26,5 @@ For Android version, download the APK here: https://drive.google.com/file/d/1Nyk
 
 # Credits
 All aspects of the game (design, coding, graphics, etc.) were done by me (Harry Nguyen).
+
+The game was made using Unity and programmed using C#. All sprites were drawn using Photoshop.
